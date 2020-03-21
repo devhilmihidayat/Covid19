@@ -1,4 +1,5 @@
 # Covid19
-Widget Covid19 /n
+Widget Covid19 
+
 Sumber:
  + https://api.kawalcorona.com/
